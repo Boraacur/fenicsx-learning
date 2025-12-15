@@ -1,0 +1,9 @@
+{
+  "name": "FEniCSx",
+  "image": "dolfinx/dolfinx:stable",
+  "customizations": {
+    "vscode": {
+      "extensions": ["ms-python.python"]
+    }
+  }
+}
